@@ -1,5 +1,5 @@
 # luci-app-tailscale
-![20241216233338](https://github.com/user-attachments/assets/239a19ca-1dc7-4dae-b6e6-b80d1b600a75)
+![20241216233753](https://github.com/user-attachments/assets/dbd3c818-b963-4eee-926c-b692cd5bdf64)
 
 Tailscale is a zero config VPN for building secure networks.
 
