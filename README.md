@@ -1,4 +1,5 @@
 # luci-app-tailscale
+![20241216233338](https://github.com/user-attachments/assets/239a19ca-1dc7-4dae-b6e6-b80d1b600a75)
 
 Tailscale is a zero config VPN for building secure networks.
 
@@ -40,6 +41,7 @@ Tailscale is a zero config VPN for building secure networks.
   ```
 
 --------------
+
 
 ## Thanks
 - [Carseason/openwrt-tailscale](https://github.com/Carseason/openwrt-tailscale)
